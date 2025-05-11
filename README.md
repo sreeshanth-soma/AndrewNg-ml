@@ -56,7 +56,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/sreeshanth-soma/AndrewNg-ml/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1)
       - [Logistic Regression](https://github.com/sreeshanth-soma/AndrewNg-ml/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
 
 <br/>
 
@@ -108,8 +107,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz : Decision Trees Ensembles](https://github.com/sreeshanth-soma/AndrewNg-ml/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-tree-ensembles)
     - [Programming Assignment](https://github.com/sreeshanth-soma/AndrewNg-ml/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/sreeshanth-soma/AndrewNg-ml/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
-
-#### [Certificate of Completion](https://coursera.org/share/c9a7766b0c6eab27db2e955376d29bf7)        
+ 
 
 <br/>
 
@@ -145,7 +143,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 #### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
 
 <br/>
 
